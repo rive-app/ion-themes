@@ -1,0 +1,10 @@
+{
+  "kind": "theme",
+  "name": "Zed One",
+  "version": "1.0.0",
+  "description": "One Dark and One Light, as Zed ships them.",
+  "license": "MIT",
+  "themes": [
+    "zed-one.json"
+  ]
+}

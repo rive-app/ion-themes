@@ -1,0 +1,11 @@
+{
+  "kind": "theme",
+  "name": "Rosé Pine",
+  "version": "1.0.0",
+  "description": "Rosé Pine and Rosé Pine Moon, each with Dawn for light.",
+  "license": "MIT",
+  "themes": [
+    "rose-pine.json",
+    "rose-pine-moon.json"
+  ]
+}

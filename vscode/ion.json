@@ -1,0 +1,10 @@
+{
+  "kind": "theme",
+  "name": "VS Code",
+  "version": "1.0.0",
+  "description": "VS Code's default dark and light themes.",
+  "license": "MIT",
+  "themes": [
+    "vs-code.json"
+  ]
+}

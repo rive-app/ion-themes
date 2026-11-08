@@ -1,0 +1,10 @@
+{
+  "kind": "theme",
+  "name": "Nomad",
+  "version": "1.0.0",
+  "description": "Hydrogen's palette and Ion's first default, with a light palette of its hues darkened to read on paper.",
+  "license": "MIT",
+  "themes": [
+    "nomad.json"
+  ]
+}

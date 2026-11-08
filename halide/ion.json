@@ -1,0 +1,10 @@
+{
+  "kind": "theme",
+  "name": "Halide",
+  "version": "1.0.0",
+  "description": "The darkroom under its safelight, with no blue for late nights; in light, a golden sepia print.",
+  "license": "MIT",
+  "themes": [
+    "halide.json"
+  ]
+}

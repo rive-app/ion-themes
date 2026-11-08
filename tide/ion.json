@@ -1,0 +1,10 @@
+{
+  "kind": "theme",
+  "name": "Tide",
+  "version": "1.0.0",
+  "description": "Sea glass in deep water: aqua types, amber strings and one warm coral for values.",
+  "license": "MIT",
+  "themes": [
+    "tide.json"
+  ]
+}

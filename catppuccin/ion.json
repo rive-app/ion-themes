@@ -1,0 +1,12 @@
+{
+  "kind": "theme",
+  "name": "Catppuccin",
+  "version": "1.0.0",
+  "description": "Catppuccin's Mocha, Macchiato and Frappé, each with Latte for light.",
+  "license": "MIT",
+  "themes": [
+    "catppuccin-mocha.json",
+    "catppuccin-macchiato.json",
+    "catppuccin-frappe.json"
+  ]
+}

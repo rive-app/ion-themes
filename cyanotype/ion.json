@@ -1,0 +1,10 @@
+{
+  "kind": "theme",
+  "name": "Cyanotype",
+  "version": "1.0.0",
+  "description": "Prussian blue against tea toned paper, with the violet a tannin toner leaves.",
+  "license": "MIT",
+  "themes": [
+    "cyanotype.json"
+  ]
+}

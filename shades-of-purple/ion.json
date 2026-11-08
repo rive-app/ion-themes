@@ -1,0 +1,11 @@
+{
+  "kind": "theme",
+  "name": "Shades of Purple",
+  "version": "1.0.0",
+  "description": "Shades of Purple and its Super Dark, with a light palette of its hues darkened to read on paper.",
+  "license": "MIT",
+  "themes": [
+    "shades-of-purple.json",
+    "shades-of-purple-super-dark.json"
+  ]
+}

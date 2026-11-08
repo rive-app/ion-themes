@@ -1,0 +1,10 @@
+{
+  "kind": "theme",
+  "name": "Riso",
+  "version": "1.0.0",
+  "description": "Two stencil inks, fluorescent pink for values and blue for the rest, with violet where they overprint.",
+  "license": "MIT",
+  "themes": [
+    "riso.json"
+  ]
+}

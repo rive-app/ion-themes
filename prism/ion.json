@@ -1,0 +1,10 @@
+{
+  "kind": "theme",
+  "name": "Prism",
+  "version": "1.0.0",
+  "description": "Refracted light, the syntax colors spread around the wheel at nearly one lightness.",
+  "license": "MIT",
+  "themes": [
+    "prism.json"
+  ]
+}

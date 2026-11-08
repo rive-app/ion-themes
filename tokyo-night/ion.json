@@ -1,0 +1,11 @@
+{
+  "kind": "theme",
+  "name": "Tokyo Night",
+  "version": "1.0.0",
+  "description": "Tokyo Night and Tokyo Night Storm, each with Day for light.",
+  "license": "MIT",
+  "themes": [
+    "tokyo-night.json",
+    "tokyo-night-storm.json"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "kind": "theme",
+  "name": "Kiln",
+  "version": "1.0.0",
+  "description": "Raku smoke black with turquoise crackle and copper luster; celadon over terracotta in light.",
+  "license": "MIT",
+  "themes": [
+    "kiln.json"
+  ]
+}

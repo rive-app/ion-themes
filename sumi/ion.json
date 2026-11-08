@@ -1,0 +1,10 @@
+{
+  "kind": "theme",
+  "name": "Sumi",
+  "version": "1.0.0",
+  "description": "Ink on washi, with shu vermilion for literal values and ai indigo for the names of types.",
+  "license": "MIT",
+  "themes": [
+    "sumi.json"
+  ]
+}

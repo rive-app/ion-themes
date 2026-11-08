@@ -1,0 +1,10 @@
+{
+  "kind": "theme",
+  "name": "Lichen",
+  "version": "1.0.0",
+  "description": "Bark slate under three lichens: chartreuse types, blue grey strings and orange values.",
+  "license": "MIT",
+  "themes": [
+    "lichen.json"
+  ]
+}
